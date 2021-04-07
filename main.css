@@ -29,4 +29,5 @@ li{
     background: white;
     border-radius: 50%;
     right:40px;
+    transition: all 0.2s ease-in-out;
 }
